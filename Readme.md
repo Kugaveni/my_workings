@@ -9,3 +9,5 @@ Kugaveni
   [Day1] ( https://github.com/Kugaveni/Java/blob/main/Random.java)
   
   [Day2] (https://github.com/Kugaveni/Java/blob/main/Day2.java)
+
+  [Day2-1] ()
