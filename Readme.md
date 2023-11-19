@@ -11,3 +11,5 @@ Kugaveni
   [Day2] (https://github.com/Kugaveni/Java/blob/main/Day2.java)
 
   [Day2-1] (https://github.com/Kugaveni/Java/blob/main/Day2_1.java)
+
+  [Day3] (https://github.com/Kugaveni/Java/blob/main/Calculator.java)
