@@ -13,3 +13,5 @@ Kugaveni
   [Day2-1] (https://github.com/Kugaveni/Java/blob/main/Day2_1.java)
 
   [Day3] (https://github.com/Kugaveni/Java/blob/main/Calculator.java)
+
+  [Day4] (https://www.figma.com/file/mpU0S7BHLbtdTyFD4c5qt6/Calculator?type=design&node-id=0%3A1&mode=design&t=9xqRhRYKhDLCyz4Z-1)
