@@ -18,4 +18,4 @@ Kugaveni
 
   [Day5] (https://github.com/Kugaveni/Java/blob/main/index1.html)
 
-  [Day5] ()
+  [Day5] (https://github.com/Kugaveni/Java/blob/main/style1.css)
