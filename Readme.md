@@ -19,3 +19,5 @@ Kugaveni
   [Day5] (https://github.com/Kugaveni/Java/blob/main/index1.html)
 
   [Day5] (https://github.com/Kugaveni/Java/blob/main/style1.css)
+
+  [Day6] (https://github.com/Kugaveni/Js-Folders/tree/main/myapp)
