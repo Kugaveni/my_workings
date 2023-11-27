@@ -25,3 +25,7 @@ Kugaveni
   [Day7] (https://github.com/Kugaveni/Js-Folders/tree/main/Js-basics)
 
   [Day 8] (https://medium.com/@kugaveni00/adventure-diaries-of-a-tech-beginner-c5fbee699608)
+
+  [Day 9] ()
+
+  [Day 10] (https://github.com/Kugaveni/Tailwind-css)
