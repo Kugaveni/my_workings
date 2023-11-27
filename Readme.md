@@ -26,6 +26,6 @@ Kugaveni
 
   [Day 8] (https://medium.com/@kugaveni00/adventure-diaries-of-a-tech-beginner-c5fbee699608)
 
-  [Day 9] ()
+  [Day 9] (https://github.com/Kugaveni/git-workings)
 
   [Day 10] (https://github.com/Kugaveni/Tailwind-css)
